@@ -15,3 +15,13 @@ document.addEventListener("DOMContentLoaded", function() {
         });
     });
 });
+
+
+ // Get the button element by its id
+ var button = document.getElementById("redirectButton");
+
+ // Add an event listener to the button for the click event
+ button.addEventListener("click", function() {
+   // Redirect the user to the specified URL
+   window.location.href = "https://www.yep.co.za/biz/store/phokeng-health-centre/402849";
+ });
