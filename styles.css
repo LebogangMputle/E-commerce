@@ -100,3 +100,9 @@ h1 {
 img:hover {
     opacity:10px;
 }
+
+.footer {
+    margin: 80px;
+    padding: 80px;
+    background-color: #0056b3;
+}
